@@ -1,8 +1,10 @@
 Image sources:
 	https://gemini.google.com/
+	https://opengameart.org/content/bat-sprite
 	
 Images editors:
 	https://half-6.github.io/lf-freehand-cropper/
 	https://www.iloveimg.com/
 	https://www.remove.bg/upload
+	https://pinetools.com/split-image
 	
